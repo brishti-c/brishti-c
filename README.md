@@ -1,4 +1,4 @@
-#About me 
+About me 
 
 - Currently working on getting my undergraduate degree. Will be graduating May 2026
 - Currently improving my programming skills and getting experience in the fields of my interest
